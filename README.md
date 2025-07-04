@@ -71,7 +71,7 @@ A Python solution for the Puzzle Decoder Race challenge that fetches puzzle frag
 
 ### Performance Optimizations
 
-1. **Concurrent Requests**: Up to 20 parallel requests using asyncio
+1. **Concurrent Requests**: parallel requests using asyncio
 2. **Connection Pooling**: Reuses HTTP connections to minimize overhead
 3. **Smart Caching**: Tracks seen IDs to avoid duplicate requests
 4. **Early Termination**: Stops as soon as puzzle is complete
