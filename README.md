@@ -34,7 +34,7 @@ A Python solution for the Puzzle Decoder Race challenge that fetches puzzle frag
 
 3. **Type checking** (optional):
    ```bash
-   mypy puzzle_decoder.py
+   mypy decoder.py
    ```
 
 4. **Start the puzzle server**:
